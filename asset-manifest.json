@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/appalachianapps/static/css/main.841f4b14.css",
-    "main.js": "/appalachianapps/static/js/main.c79f7142.js",
+    "main.css": "/appalachianapps/static/css/main.7d6ddd7b.css",
+    "main.js": "/appalachianapps/static/js/main.8139f68f.js",
     "static/js/787.bb042997.chunk.js": "/appalachianapps/static/js/787.bb042997.chunk.js",
     "static/media/optimo.png": "/appalachianapps/static/media/optimo.96fb90bb031facfd9b4f.png",
     "static/media/allapps.png": "/appalachianapps/static/media/allapps.03569a4fcd9a4e3d1f6d.png",
@@ -9,12 +9,12 @@
     "static/media/applogo.png": "/appalachianapps/static/media/applogo.67282e265e4cae0374fd.png",
     "static/media/logo.svg": "/appalachianapps/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/appalachianapps/index.html",
-    "main.841f4b14.css.map": "/appalachianapps/static/css/main.841f4b14.css.map",
-    "main.c79f7142.js.map": "/appalachianapps/static/js/main.c79f7142.js.map",
+    "main.7d6ddd7b.css.map": "/appalachianapps/static/css/main.7d6ddd7b.css.map",
+    "main.8139f68f.js.map": "/appalachianapps/static/js/main.8139f68f.js.map",
     "787.bb042997.chunk.js.map": "/appalachianapps/static/js/787.bb042997.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.841f4b14.css",
-    "static/js/main.c79f7142.js"
+    "static/css/main.7d6ddd7b.css",
+    "static/js/main.8139f68f.js"
   ]
 }
